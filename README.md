@@ -1,3 +1,5 @@
+We modified the library to get some more functionality.
+
 # Genesis Library
 
 Java library to create Tokens with different Properties, Underlyings and Operations.
@@ -18,3 +20,4 @@ An example project exists, which uses this library. It is called GenesisApp: www
 Check the other repository for detailed information on the challenges.
 
 ![alt text](https://github.com/FuturICT2/Genesis/blob/master/toolUml.png)
+
