@@ -50,8 +50,20 @@ public class TransactionAction implements IAction{
         this.value = value;
     }
 
+    // still have to add functionality and the check what arguments are needed
     
-  
+    public void buySupplies(IAddress producerAddress, IAddress supermarketAddress, IAddress productAddress){
+        
+    }
+    
+    public void buyFood(IAddress supermarketAddress, IAddress consumerAddress, IAddress productAddress){
+        
+    }
+    
+    public void buyFoodWithToken(IAddress supermarketAddress, IAddress consumerAddress, IAddress productAddress){
+        
+    }
+    
     /*
     GETTER & SETTER
      */

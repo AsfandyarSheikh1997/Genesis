@@ -29,5 +29,6 @@ package Features.operations.actions;
  * @author Mark C. Ballandies <bmark@ethz.ch>
  */
 public enum EActionType {
-    TRANSACTION
+    TRANSACTION,
+    ARITHMETIC
 }
